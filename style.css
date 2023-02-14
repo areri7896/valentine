@@ -20,6 +20,8 @@ h1 {
   text-align: center;
   margin-top: 0;
   color: #fff;
+  border: #fff;
+  background-color: #d16262;
 }
 
 img {
